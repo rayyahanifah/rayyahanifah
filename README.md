@@ -1,34 +1,30 @@
-<h1 align="center">Halo, Aku Rayya Hanifah! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="30px"></h1>
+<h1 align="center">Halo, Aku Rayya Hanifa! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="30px"></h1>
 
-<h3 align="center">Software Engineering Student | Full-Stack Developer Explorer 🚀</h3>
+<h3 align="center">Software Engineering Student | Game Enthusiast | Paskibra Soldier ⚔️🎮</h3>
 
 <div align="center">
-  <a href="https://github.com/rayyahanifah">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React.js+%2B+Node.js+Enthusiast;Database+Architecture+Geek;SMKN+8+Jakarta+Student" alt="Typing SVG" />
-  </a>
+  <img src="https://media.giphy.com/media/VpT165d77443d312932/giphy.gif" width="80%" alt="Rayya's Pixel Adventure Banner">
 </div>
 
 ---
 
 ### 👩‍💻 Tentang Aku
-* 🎓 Saat ini sedang menempuh pendidikan **Rekayasa Perangkat Lunak** di **SMKN 8 Jakarta**.
-* 💻 Sangat antusias dalam membangun aplikasi web menggunakan **React.js, Node.js, Express.js**, dan mulai mengeksplorasi **C#**.
-* 🗄️ Tertarik dengan arsitektur database: **MySQL, PostgreSQL, dan Supabase**.
-* 🎯 Fokus saat ini: Mengembangkan aplikasi **LabaTrack** untuk manajemen keuangan UMKM.
-* 🌟 Di luar *coding*, aku aktif berorganisasi di **Paskibra** dan **MPK**.
-* 🏫 Cita-cita: Melanjutkan pendidikan ke **PKN STAN** setelah lulus. 
+* 🎓 Saat ini sedang menempuh pendidikan **Rekayasa Perangkat Lunak** di **SMKN 8 Jakarta** (Kelas XI - 2024).
+* 💻 Sangat tertarik dengan pengembangan **Game** dan sistem **Embedded**.
+* 🌟 Di luar *coding*, aku aktif sebagai **Paskibra Soldier**.
+* 🎯 Fokus saat ini: Belajar membuat aplikasi web yang kompleks dan bereksperimen dengan game dev.
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,php,cs" alt="My Skills 1" />
+  <img src="https://skillicons.dev/icons?i=js,python,react,node,html,css,php,cs" alt="My Skills 1" />
   <br>
   <br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,git,github,vscode,canva,windows" alt="My Skills 2" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,canva,windows,linux" alt="My Skills 2" />
 </div>
 
 <br>
 
-### 🐍 Animasi Game Snake (Kontribusi GitHub)
+### 🐍 Kontribusi GitHub (Game Ular!)
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayyahanifah/rayyahanifah/output/github-contribution-grid-snake-dark.svg">
@@ -47,4 +43,11 @@
   <a href="https://github.com/rayyahanifah">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyahanifah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
+</div>
+
+---
+
+### 🎮 Sedang Dimainkan
+<div align="center">
+  <img src="https://readme-playing-game.vercel.app/api?username=rayyahanifah&gamename=Hollow+Knight" alt="Current Game Stat">
 </div>
