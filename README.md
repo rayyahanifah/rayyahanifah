@@ -1,29 +1,38 @@
 <div align="center">
 
-<!-- Header Banner Bergelombang -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there,%20I'm%20Rai%20Hanifah!&fontSize=38&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20Student&descSize=20&descAlignY=62&descAlign=50" width="100%" />
+<!-- Header Capsule Render Style Minimal Soft-Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,35&height=180&section=header&text=✨%20RAI%20HANIFAH%20✨&fontSize=42&fontColor=ffffff&animation=twinkle&fontAlignY=45&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Explorer&descSize=18&descAlignY=70&descAlign=50" width="100%" />
 
-<!-- Animasi Typing (Mengetik) -->
+<br/>
+
+<!-- Typing SVG Style Neon Terminal -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;PHP+%7C+JavaScript+%7C+SQL;Building+Cool+Web+Projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=%3E_+'Hello+World!'+welcome+to+my+space;⚡+Crafting+clean+code+with+PHP+%26+JS;🛠️+Exploring+Full-Stack+%26+Databases" alt="Typing SVG" />
+</a>
+
+<br/>
+<br/>
+
+<!-- Social Badges / Quick Links -->
+<a href="https://github.com/rayyahanifah">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Location-Jakarta%20Selatan-00C9FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </a>
 
 </div>
 
----
-
-### 🚀 About Me
-* 🎓 Currently studying Software Engineering / Full-Stack Development.
-* 💻 Working on PHP, MariaDB, and JavaScript projects.
-* ⚡ Fun fact: I love diving deep into coding & self-development!
+<br/>
 
 ---
 
-### 🛠️ Tech Stack & Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-</p>
+### ⚡ **About Me**
+
+```javascript
+const raiHanifah = {
+    role: "Software Engineering Student",
+    focus: ["Full-Stack Web Development", "Database Architecture"],
+    currentTechStack: ["PHP", "JavaScript", "MariaDB", "SQL Server"],
+    motto: "Continuously evolving, learning deeper every single day."
+};
