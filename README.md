@@ -30,16 +30,9 @@
 🏆 Goals  : UPNVJ, PKN STAN
 <!-- 🌟 Orgs   : Ketua Paskibra & MPK -->
 </pre>
-    </td>
-    <td width="45%" valign="middle" align="center">
-      <!-- Animasi Kucing Ngetik Imut -->
-      <img 
-        src="https://media.giphy.com/media/L12g7V0JcAqRVcb2sO/giphy.gif" 
-        alt="cute cat typing gif" 
-        width="90%" 
-        style="border-radius: 12px;"
-      />
-    </td>
+  <!-- Animasi Kucing Ngetik Imut -->
+  <img src="https://media.tenor.com/41I-iMyClCgAAAAM/programmer-programming.gif" alt="cute cat typing gif" width="90%" />
+</td>
   </tr>
 </table>
 
@@ -91,16 +84,3 @@
 
 ---
 
-<br>
-
-<div align="center">
-
-```javascript
-while (alive) {
-    eat(🍰);
-    code(💻);
-    learn(📚);
-    pray(🤲);
-    sleep(💤);
-    repeat(); // 🌸
-}
