@@ -2,7 +2,7 @@
 
 <h1><img src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" width="35"> Hai, Aku Rayya Hanifah! 🌸</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=FF85A1&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React.js+%26+Node.js+Enthusiast;Ketua+Paskibra;PKN+STAN+Dreamer" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=FF85A1&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React.js+%26+Node.js+Enthusiast;Hai" />
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=rayyahanifah&style=for-the-badge&color=FFB6C1&labelColor=FFF0F5&label=Profile+Views"/>
 
